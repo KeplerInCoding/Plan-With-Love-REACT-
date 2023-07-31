@@ -24,7 +24,7 @@ const App = () => {
   }
 
   return (
-    <div className="w-[98.7vw] min-h-[100vh] bg-gradient-to-r from-slate-500 via-pink-400/30 to-slate-500 flex flex-col items-center">
+    <div className="w-[100vw] min-h-[100vh] bg-gradient-to-r from-slate-500 via-pink-400/30 to-slate-500 flex flex-col items-center">
       <Tours tours={tours} removeTour={removeTour}></Tours>
     </div>
   )
