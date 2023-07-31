@@ -1,6 +1,7 @@
 # Plan-With-Love-REACT-
 
-[Link to website](plan-with-love-react.vercel.app)
+
+plan-with-love-react.vercel.app
 
 
 
